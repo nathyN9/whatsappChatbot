@@ -1,0 +1,30 @@
+{
+  "name": "back-end",
+  "version": "0.0.1",
+  "description": "Backend Chatbot",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathyN9/chatbot-whatsapp-front.git#e0a85640d58f58715ea1a74a8d578d84a5dad58d"
+  },
+  "keywords": [
+    "Backend",
+    "Chatbot"
+  ],
+  "author": "Ricardo Barahona Nathaly Diaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathyN9/chatbot-whatsapp-front/issues"
+  },
+  "homepage": "https://github.com/nathyN9/chatbot-whatsapp-front/tree/e0a85640d58f58715ea1a74a8d578d84a5dad58d#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
