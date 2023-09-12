@@ -1,0 +1,6 @@
+2023/09/06-20:41:58.416 2c04 Reusing MANIFEST C:\Users\pc\Desktop\chatbot\tokens\session-name\Default\Local Storage\leveldb/MANIFEST-000001
+2023/09/06-20:42:00.786 2c04 Recovering log #3
+2023/09/06-20:42:01.729 2c04 Reusing old log C:\Users\pc\Desktop\chatbot\tokens\session-name\Default\Local Storage\leveldb/000003.log 
+2023/09/06-20:45:01.820 2c04 Level-0 table #5: started
+2023/09/06-20:45:01.846 2c04 Level-0 table #5: 22477 bytes OK
+2023/09/06-20:45:01.857 2c04 Delete type=0 #3
